@@ -1,0 +1,41 @@
+.container {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+.sideNav-cont {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.List-view {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 60%;
+}
+
+.list-Container,
+.list-Container ul {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 100%;
+
+}
+.List-view table{
+    width: 100%;
+}
+.List-view table,
+th,
+td {
+    border: 1px solid black;
+}
